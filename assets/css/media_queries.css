@@ -108,7 +108,7 @@
         width: 90%;
     }
 
-    .home.section {}
+    /* .home.section {} */
 
     #projects {
         padding: 80px 0;
@@ -137,11 +137,11 @@
         right: 0;
         width: 40%;
         transform: translateX(101%);
-        background: rgba(9, 20, 40, 0.96);
+        background: rgba(255, 255, 255, 0.96);
         backdrop-filter: blur(15px);
-        box-shadow: 0 1px 15px 0 rgba(31, 38, 105, 0.37);
+        box-shadow: 0 1px 15px 0 rgba(255, 255, 255, 0.37);
         border-radius: 0 0 0;
-        border: 1px solid rgba(255, 255, 255, 0.05);
+        border: 1px solid rgb(255, 85, 187);
         border-right: none;
         border-top: none;
         transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
